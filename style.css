@@ -1,0 +1,74 @@
+body {
+   background-color: rgb(243, 236, 236);
+} 
+ 
+ section {
+      background-color: rgb(252, 247, 247);
+      border: 3px solid;
+      border-color: white;
+      border-radius: 7px;
+      padding:10px 50px 20px 50px;
+      margin: 20px 20px 10px 20px;
+ }
+
+ h1 {
+      font-size: 40px;
+      color: rgb(204, 141, 59);
+      padding-top: 30px;
+      padding-left: 3px;
+      text-decoration: underline;
+ }
+
+ .front {
+   bottom: 2px;
+}
+
+ .line {
+      width: 100%;
+      display: block;
+      margin: 0;
+      border-width: 2px;
+      padding-bottom: 5px;
+ }
+ .header1 h2,.header2 h2,.header3 h2,.header4 h2,.header5 h2,.header6 h2, .header7 h2{
+      color: rgb(196, 103, 28);
+ }
+ .header1 {
+      padding-left: 5px;
+ }
+  
+ .header2 {
+      padding-top: 5px;
+      justify-content: left;
+ }
+ .header3 {
+      padding-top: 5px;
+      justify-content: left;
+ }
+ .header4 {
+      padding-top: 5px;
+      justify-content: left;
+ }
+ .header5 {
+      padding-top: 5px;
+      justify-content: left;
+ }
+ .header6 {
+      padding-top: 5px;
+      justify-content: left;
+ }    
+ .header7 {
+      padding-top: 5px;
+      justify-content: left;
+ }
+.list ul{
+      padding-top: 5px;
+      line-height: 25px;
+}
+
+.list h2{
+      color: rgb(196, 103, 28);
+}
+.bottom {
+      padding-left: 25px;
+}
